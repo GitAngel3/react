@@ -1,0 +1,14 @@
+.task-list {
+  list-style-type: square;
+  padding-left: 20px;
+}
+
+.task-list li {
+  margin: 5px 0;
+}
+
+.task-message {
+  font-weight: bold;
+  margin-top: 10px;
+  color: #3276b6;
+}
