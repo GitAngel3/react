@@ -1,0 +1,59 @@
+/* Page styling */
+.container {
+  text-align: center;
+  margin-top: 50px;
+  font-family: Arial, sans-serif;
+}
+
+/* Card style */
+.card {
+  width: 350px;
+  margin: auto;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+  background-color: #f9f9f9;
+}
+
+/* Heading */
+.heading {
+  color: #333;
+  margin-bottom: 20px;
+}
+
+/* Food list */
+.food-list {
+  list-style: none;
+  padding: 0;
+}
+
+/* Each food item */
+.food-item {
+  margin: 12px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* Button style */
+.food-btn {
+  padding: 6px 12px;
+  border: none;
+  border-radius: 5px;
+  background-color: #007bff;
+  color: white;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+/* Button hover */
+.food-btn:hover {
+  background-color: #0056b3;
+}
+
+/* Message styling */
+.message {
+  margin-top: 20px;
+  color: #444;
+  font-weight: bold;
+}
